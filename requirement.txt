@@ -1,0 +1,15 @@
+python 3.8.5
+pip install pillow
+pip install mysql-python
+pip install mysql-connector-python
+pip install opencv-python
+pip install opencv-contrib-python
+pip install openpyxl
+pip install numpy
+pip install pandas
+pip install pyttsx3
+
+*also read note.txt file
+
+project report
+https://www.academia.edu/45631450/Automatic_Face_Recognition_Attendance_System_using_Python_and_OpenCv
